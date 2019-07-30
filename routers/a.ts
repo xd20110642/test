@@ -1,0 +1,3 @@
+interface param {
+    a:string
+}
