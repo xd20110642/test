@@ -1,3 +1,4 @@
 interface param {
-    a:string
+    a:number,
+    c:string
 }
